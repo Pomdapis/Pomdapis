@@ -52,9 +52,10 @@ ____
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/gnu_bash_logo_icon_170079.svg" />](https://www.gnu.org/software/bash/)
 
 
-This is'nt finished yet.. Work in progress...
 ____
 <!-- 
 [<img width="30px" src="" />]()
 
 -->
+
+This is'nt finished yet.. Work in progress...
