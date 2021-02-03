@@ -1,4 +1,4 @@
-# Hello !
+# Hello ! (WORK IN PROGRESS...)
 i'm Pomdapis, my friends call me 'Pom' or Sacha..('cause it's my name..)
 
 If you want to know a bit about me, please check my [<img width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/sacha-hennaut-developer-full-stack/) profile.
