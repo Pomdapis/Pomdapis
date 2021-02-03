@@ -1,15 +1,17 @@
-# Hello ! (WORK IN PROGRESS...)
+# Hello ! 
 i'm Pomdapis, my friends call me 'Pom' or Sacha..('cause it's my name..)
 
 If you want to know a bit about me, please check my [<img width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/sacha-hennaut-developer-full-stack/) profile.
 
+
+<img width="30px" src="https://www.flaticon.com/svg/vstatic/svg/595/595067.svg?token=exp=1612374905~hmac=f32aca1cb4b9464799a38d5cd58ff39c" />I'm sorry this profile is'nt finished yet.. <img width="30px" src="https://www.flaticon.com/svg/vstatic/svg/595/595067.svg?token=exp=1612374905~hmac=f32aca1cb4b9464799a38d5cd58ff39c" />
 ____
 
 There is no public repository on my profile for now.. because it's a big mess in there. But it is coming soon !
 
 ____
 
-#### Languages and tools i use:
+#### Languages and tools i use: (-WIP-)
 
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/icon-webstorm.svg" />]() 
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/icon-intellij-idea.svg" />]()
