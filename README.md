@@ -6,8 +6,6 @@ If you want to know a bit about me, please check my [<img width="22px" src="http
 #### Contact me :
 
 <img align="left" width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/discord_icon_130958.svg" /> Pomdapis#0385
-
-<img width="30px" src="https://www.flaticon.com/svg/vstatic/svg/595/595067.svg?token=exp=1612374905~hmac=f32aca1cb4b9464799a38d5cd58ff39c" />This is'nt finished yet.. Work in progress <img width="30px" src="https://www.flaticon.com/svg/vstatic/svg/595/595067.svg?token=exp=1612374905~hmac=f32aca1cb4b9464799a38d5cd58ff39c" />
 ____
 
 There is no public repository on my profile for now.. because it's a big mess in there. But it is coming soon !
@@ -54,6 +52,7 @@ ____
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/gnu_bash_logo_icon_170079.svg" />](https://www.gnu.org/software/bash/)
 
 
+This is'nt finished yet.. Work in progress...
 ____
 <!-- 
 [<img width="30px" src="" />]()
