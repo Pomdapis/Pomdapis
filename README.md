@@ -16,5 +16,5 @@ ____
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/icon-pycharm.svg" />]()
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/icon-rider.svg" />]()
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/icon_CLion.svg" />]()
-git
+[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/Papirus-Team-Papirus-Apps-Git.svg" />]()
 
