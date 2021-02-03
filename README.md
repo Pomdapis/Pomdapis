@@ -18,3 +18,7 @@ ____
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/icon_CLion.svg" />]()
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/Papirus-Team-Papirus-Apps-Git.svg" />]()
 
+<!-- 
+todo
+github, gitlab, c, c++, c#, js, ts, swagger, html, css, agile, linux, regolith, jest, jasmine, detox, i18n, Formik, ReactQuery, Android, AngularJS, reactnative, reactjs, wpf, jquery, ajax, java, .net, raspberry pi, arduino, python, unity3d
+-->
