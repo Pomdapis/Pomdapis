@@ -64,5 +64,3 @@ ____
 [<img width="30px" src="" />]()
 
 -->
-
-This is'nt finished yet.. Work in progress...
