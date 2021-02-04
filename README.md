@@ -50,6 +50,7 @@ ____
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/raspberrypi_logo_icon_168029.svg" />](https://www.raspberrypi.org/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/arduino_103028.svg" />](https://www.arduino.cc/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/unityeditoricon_103179.svg" />](https://unity.com/fr)
+[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/file_type_rust_icon_130185.svg" />](https://unity.com/fr)
 
 
 <!-- [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/gnu_bash_logo_icon_170079.svg" />](https://www.gnu.org/software/bash/)
