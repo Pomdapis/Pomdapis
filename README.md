@@ -44,7 +44,7 @@ ____
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/icon-rider.svg" />](https://www.jetbrains.com/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/icon_CLion.svg" />](https://www.jetbrains.com/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/file_type_vscode_icon_130084.svg" />](https://code.visualstudio.com/)
-[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/github_git_hub_logo_icon_132878.svg" />](https://github.com/Pomdapis)
+[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/git-logo.svg" />](https://github.com/Pomdapis)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/c_icon_132529.svg" />]()
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/csharp_original_logo_icon_146578.svg" />]()
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/raspberrypi_logo_icon_168029.svg" />](https://www.raspberrypi.org/)
@@ -64,5 +64,3 @@ ____
 [<img width="30px" src="" />]()
 
 -->
-
-This is'nt finished yet.. Work in progress...
