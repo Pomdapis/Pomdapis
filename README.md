@@ -3,7 +3,7 @@ i'm Pomdapis, my friends call me 'Pom' or Sacha.. ('cause it's my name..)
 
 #### `Contact :`
 
-If you want to know a bit about me, please check my [<img width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/sacha-hennaut-developer-full-stack/) profile.
+If you want to know a bit more about me, please check my [<img width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/sacha-hennaut-developer-full-stack/) profile.
 
 <img align="left" width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/discord_icon_130958.svg" /> Discord -> `Pomdapis#0385`
 ____
