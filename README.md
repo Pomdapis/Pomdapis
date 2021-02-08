@@ -31,9 +31,6 @@ ____
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/java_93883.svg" />](https://www.java.com/fr/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/Android_icon-icons.com_66772.svg" />]()
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/swagger_icon_131958.svg" />](https://swagger.io/)
-[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/jasmine_plain_logo_icon_146460.svg" />](https://jasmine.github.io/)
-[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/gulp_plain_logo_icon_146485.svg" />](https://gulpjs.com/)
-[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/grunt_original_logo_icon_146488.svg" />](https://gruntjs.com/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/grafana_logo_icon_171048.svg" />](https://grafana.com/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/file_type_prometheus_icon_130229.svg" />](https://prometheus.io/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/docker_plain_logo_icon_146554.svg" />](https://www.docker.com/)
@@ -50,7 +47,7 @@ ____
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/raspberrypi_logo_icon_168029.svg" />](https://www.raspberrypi.org/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/arduino_103028.svg" />](https://www.arduino.cc/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/unityeditoricon_103179.svg" />](https://unity.com/fr)
-[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/file_type_rust_icon_130185.svg" />](https://unity.com/fr)
+
 
 
 <!-- [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/gnu_bash_logo_icon_170079.svg" />](https://www.gnu.org/software/bash/)
@@ -58,6 +55,10 @@ ____
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/distributorlogodebian_103834.svg" />](https://www.debian.org/index.fr.html)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/jquery_plain_logo_icon_146444.svg" />](https://jquery.com/)
 [<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/python_original_logo_icon_146381.svg" />](https://www.python.org/)
+[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/file_type_rust_icon_130185.svg" />](https://unity.com/fr)
+[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/gulp_plain_logo_icon_146485.svg" />](https://gulpjs.com/)
+[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/grunt_original_logo_icon_146488.svg" />](https://gruntjs.com/)
+[<img width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/jasmine_plain_logo_icon_146460.svg" />](https://jasmine.github.io/)
 
 -->
 ____
