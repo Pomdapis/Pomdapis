@@ -5,7 +5,7 @@ i'm Pomdapis, my friends call me 'Pom' or Sacha.. ('cause it's my name..)
 
 If you want to know a bit more about me, please check my [<img width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/sacha-hennaut-developer-full-stack/) profile.
 
-<img align="left" width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/discord_icon_130958.svg" /> Discord -> `Pomdapis#0385`
+[<img align="left" width="30px" src="https://github.com/Pomdapis/Pomdapis/blob/master/discord_icon_130958.svg" />](https://discord.com/) Discord -> `Pomdapis#0385`
 ____
 
 There is no public repository on my profile for now.. because it's a big mess in there. But it is coming soon !
