@@ -67,7 +67,7 @@ I split my time between **building my own platform** (Sassy Solutions / Nexus / 
 <tr>
 <td width="33%" valign="top">
 
-### <img src="https://img.shields.io/badge/-AGENCY-B388FF?style=flat-square&labelColor=0d1117" /> Sassy Solutions
+### <a href="https://github.com/sassy-solutions"><img src="https://img.shields.io/badge/-AGENCY-B388FF?style=flat-square&labelColor=0d1117" /></a> [Sassy Solutions](https://github.com/sassy-solutions)
 
 > An **agent-building agency.** We design, build, and ship custom AI agents on a multi-tenant platform we own end-to-end.
 
@@ -90,12 +90,12 @@ I split my time between **building my own platform** (Sassy Solutions / Nexus / 
 — Ships with SDK + MCP server + admin UI
 — Deploy-from-template pipeline
 
-`.NET 10 · CQRS/ES · K8s`
+`.NET 10 · CQRS/ES · K8s · private`
 
 </td>
 <td width="33%" valign="top">
 
-### <img src="https://img.shields.io/badge/-FRAMEWORK-39FF14?style=flat-square&labelColor=0d1117" /> Compendium
+### <a href="https://github.com/sassy-solutions/compendium"><img src="https://img.shields.io/badge/-FRAMEWORK-39FF14?style=flat-square&labelColor=0d1117" /></a> [Compendium](https://github.com/sassy-solutions/compendium)
 
 > The **event-sourcing framework** underneath Nexus. Open primitives for aggregates, projections, multi-tenancy, and outboxes.
 
@@ -104,11 +104,84 @@ I split my time between **building my own platform** (Sassy Solutions / Nexus / 
 — Result pattern, no exceptions for control flow
 — Published as NuGet
 
-`framework · open primitives`
+<a href="https://github.com/sassy-solutions/compendium"><img src="https://img.shields.io/github/stars/sassy-solutions/compendium?style=flat-square&logo=github&labelColor=0d1117&color=39FF14" alt="stars" /></a>
 
 </td>
 </tr>
 </table>
+
+<br />
+
+<!-- ──────────────────────────────────────────────────────────────────── -->
+<!--  OPEN ECOSYSTEM                                                      -->
+<!-- ──────────────────────────────────────────────────────────────────── -->
+
+## <samp>◆ open ecosystem</samp>
+
+Compendium isn't a monolith — it ships as a **tiny core + a growing constellation of adapters**, so you only depend on what you actually wire in. Everything below is MIT-licensed, .NET 10, and built to the same conventions ([adapter template](https://github.com/sassy-solutions/template-compendium-adapter-dotnet)).
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h3>🧠 AI providers</h3>
+
+<a href="https://github.com/sassy-solutions/compendium-adapter-anthropic"><img src="https://img.shields.io/badge/Anthropic-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757" /></a>
+<a href="https://github.com/sassy-solutions/compendium-adapter-openai"><img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00E5FF" /></a>
+<a href="https://github.com/sassy-solutions/compendium-adapter-gemini"><img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=B388FF" /></a>
+<a href="https://github.com/sassy-solutions/compendium-adapter-openrouter"><img src="https://img.shields.io/badge/OpenRouter-0d1117?style=for-the-badge&logoColor=B388FF" /></a>
+<a href="https://github.com/sassy-solutions/compendium-adapter-ollama"><img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=ffffff" /></a>
+
+<sub>Chat, embeddings, tool-calling, streaming. Swap providers without touching domain code.</sub>
+
+</td>
+<td valign="top" width="50%">
+
+<h3>🔎 Vector & search</h3>
+
+<a href="https://github.com/sassy-solutions/compendium-adapter-pgvector"><img src="https://img.shields.io/badge/pgvector-0d1117?style=for-the-badge&logo=postgresql&logoColor=00E5FF" /></a>
+<a href="https://github.com/sassy-solutions/compendium-adapter-qdrant"><img src="https://img.shields.io/badge/Qdrant-0d1117?style=for-the-badge&logoColor=B388FF" /></a>
+
+<sub>Postgres-native or cloud — same `IVectorStore` port. RAG without ceremony.</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<h3>🗄️ Infrastructure</h3>
+
+<a href="https://github.com/sassy-solutions/compendium-adapter-postgresql"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00E5FF" /></a>
+<a href="https://github.com/sassy-solutions/compendium-adapter-redis"><img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D" /></a>
+<a href="https://github.com/sassy-solutions/compendium-adapter-s3"><img src="https://img.shields.io/badge/S3%20%E2%80%93%20R2%20%E2%80%93%20MinIO-0d1117?style=for-the-badge&logo=amazons3&logoColor=39FF14" /></a>
+
+<sub>JSONB event store · idempotency + projection checkpoints · S3-compatible object storage.</sub>
+
+</td>
+<td valign="top" width="50%">
+
+<h3>💸 SaaS plumbing</h3>
+
+<a href="https://github.com/sassy-solutions/compendium-adapter-stripe"><img src="https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=B388FF" /></a>
+<a href="https://github.com/sassy-solutions/compendium-adapter-lemonsqueezy"><img src="https://img.shields.io/badge/LemonSqueezy-0d1117?style=for-the-badge&logoColor=FFCE00" /></a>
+<a href="https://github.com/sassy-solutions/compendium-adapter-zitadel"><img src="https://img.shields.io/badge/Zitadel-0d1117?style=for-the-badge&logo=zitadel&logoColor=FF5A00" /></a>
+<a href="https://github.com/sassy-solutions/compendium-adapter-listmonk"><img src="https://img.shields.io/badge/Listmonk-0d1117?style=for-the-badge&logoColor=39FF14" /></a>
+
+<sub>Billing · identity · transactional email — the boring-but-load-bearing stuff, wired up once.</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<details>
+<summary><b>⚡ Also brewing →</b> <code>stream-ui</code> · form-first LLM streaming for React & React Native</summary>
+<br />
+
+[**`sassy-solutions/stream-ui`**](https://github.com/sassy-solutions/stream-ui) — Type-safe streaming + parsing of structured LLM output, AG-UI + A2UI native, zero runtime deps. Built for the agent UIs we ship at Sassy.
+
+</details>
 
 <br />
 
